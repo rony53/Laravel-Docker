@@ -6,5 +6,7 @@
  rm ~/.docker/config.json
 
 sudo dockar compose up -d
+
+
  sudo docker build .
 
