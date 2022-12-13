@@ -7,3 +7,4 @@
 
 sudo dockar compose up -d
  sudo docker build .
+
